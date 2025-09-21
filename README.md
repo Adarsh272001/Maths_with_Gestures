@@ -24,4 +24,4 @@ The container needs access to your webcam to function. Use the following command
 
 docker run --net=host -it adarsh2721/mathwithgestures:latest
 
-![Alt text](running.png)
+![Alt text](Running.png)
