@@ -22,6 +22,6 @@ You can pull the pre-built image from Docker Hub using the following command:
 2. Run the Docker Container
 The container needs access to your webcam to function. Use the following command to run the container, granting it access to your camera:
 
-'''docker run --net=host -it adarsh2721/mathwithgestures:latest
+```docker run --net=host -it adarsh2721/mathwithgestures:latest```
 
 ![Alt text](Running.png)
