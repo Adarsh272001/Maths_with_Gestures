@@ -17,7 +17,7 @@ To run this project, you need to have Docker installed on your system.
 1. Pull the Docker Image
 You can pull the pre-built image from Docker Hub using the following command:
 
-'''docker pull adarsh2721/mathwithgestures:latest
+'''docker pull adarsh2721/mathwithgestures:latest'''
 
 2. Run the Docker Container
 The container needs access to your webcam to function. Use the following command to run the container, granting it access to your camera:
