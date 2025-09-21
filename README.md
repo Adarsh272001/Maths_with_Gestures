@@ -23,3 +23,6 @@ docker pull adarsh2721/mathwithgestures:latest
 The container needs access to your webcam to function. Use the following command to run the container, granting it access to your camera:
 
 docker run --net=host -it adarsh2721/mathwithgestures:latest
+
+
+![Dashboard Screenshot 1](running.png)
